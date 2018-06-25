@@ -4,7 +4,7 @@ Quickly and easily access Nested Variables Stuffs
 
 
 ## Installation 
-#Only need to follow these instructions if you can't find the extension in the Chrome Webstore
+# Only need to follow these instructions if you can't find the extension in the Chrome Webstore
 
 1. Clone the repository (if you download the zip, then unzip the file)
 2. Go to the 3 dots in the top right of Chrome
